@@ -1,21 +1,6 @@
 <p align="center">
-  <a href="https://tipe.io/" target="_blank">
-    <img  alt="Tipe" src="https://user-images.githubusercontent.com/1016365/30999155-30430eb8-a488-11e7-850e-a7c38dad77c1.png" class="img-responsive">
-  </a>
-</p>
-
-___
-
-[![taylor swift](https://img.shields.io/badge/secured%20by-taylor%20swift-brightgreen.svg)](https://twitter.com/SwiftOnSecurity)
-[![volkswagen status](https://auchenberg.github.io/volkswagen/volkswargen_ci.svg?v=1)](https://github.com/auchenberg/volkswagen)
-[![Build Status](https://travis-ci.org/AngularClass/angular-starter.svg?branch=master)](https://travis-ci.org/AngularClass/angular-starter)
-[![GitHub version](https://badge.fury.io/gh/angularclass%2Fangular-starter.svg)](https://badge.fury.io/gh/angularclass%2Fangular-starter)
-[![Dependency Status](https://david-dm.org/angularclass/angular-starter.svg)](https://david-dm.org/angularclass/angular-starter)
-[![Stack Share](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](http://stackshare.io/angularclass/angular-2-webpack-starter)
-
-<p align="center">
-  <a href="https://onespeed.io" target="_blank">
-    <img src="https://cloud.githubusercontent.com/assets/1016365/26219144/aa986cfa-3bdb-11e7-9f04-7296dc9ae945.png" alt="Angular Starter with Webpack by OneSpeed" />
+  <a href="http://vemulakonda.com" target="_blank">
+    <img src="https://vignette.wikia.nocookie.net/en.futurama/images/4/45/Dr._John_A._Zoidberg.png/revision/latest/scale-to-width-down/157?cb=20101014052403" alt="zoidberg" />
   </a>
 </p>
 
